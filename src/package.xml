@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>DisplayContactInfoOnCase</members>
+        <members>DisplayContactInfoOnCaseTest</members>
+        <members>SendSurveyEmailsBatchClass</members>
+        <members>SendSurveyEmailsBatchClassScheduler</members>
+        <members>SendSurveyEmailsBatchClassTestClass</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Contact.Home_Country__c</members>
+        <members>Contact.Product__c</members>
+        <members>Contact.language__c</members>
+        <members>Contact.survey_date__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+		<members>unfiled$public/Survey_Link_Email_English</members>
+		<members>unfiled$public/Survey_Link_Email_German</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>44.0</version>
+</Package>

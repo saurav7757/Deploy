@@ -1,0 +1,14 @@
+.THIS .img{
+    float: right;
+}
+
+.THIS .img1{
+    float: right;
+}
+
+.THIS .txtAlign{
+    position: realtive;
+    padding: 1em 0;
+    margin: 0;
+    text-align:center;
+}
